@@ -1,5 +1,5 @@
 # AI-study-agent
-a ai agent sample model (prototype which is a base for upcoming ai agent in study )
+a ai agent sample model (prototype which is a base for upcoming ai agent in study ) specially on memorization  like how the ai models save the content a kind of memory visualization
 # AI Study Agent 🤖📚
 
 A lightweight Python-based CLI tool designed to help students track their learning progress and identify weak areas in their studies.
